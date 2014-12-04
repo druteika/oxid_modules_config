@@ -1,0 +1,12 @@
+OXID Module Configuration Im-/Exporter - Changelog
+==================================================
+
+v0.2.0
+------
+ * Module renamed
+ * Documentation adjusted
+ * Changelog added
+ * Refactoring done to match OXPS standards
+ * Added JSON pretty print option support
+ * Adjusted dashboard styles
+ 

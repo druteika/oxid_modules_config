@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="mxservice">
+            <SUBMENU id="oxpsmodulesconfig" cl="admin_oxpsmodulesconfigdashboard">
+                <TAB id="oxpsmodulesconfig_main" cl="admin_oxpsmodulesconfigdashboard"/>
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>

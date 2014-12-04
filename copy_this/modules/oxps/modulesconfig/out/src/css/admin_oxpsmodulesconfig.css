@@ -1,0 +1,95 @@
+/* OXID Module Configuration Im-/Exporter - Back end styles */
+
+div.box {
+    border: none;
+    height: 100% !important;
+    padding: 0;
+}
+
+div.oxpsmodulesconfig-export {
+    width: 100%;
+    padding: 0;
+}
+
+div.oxpsmodulesconfig-export span {
+    margin: 0 10px;
+}
+
+table.oxpsmodulesconfig-wrapper {
+    border: 1px solid #000000;
+    border-top: none;
+    width: 100%;
+}
+
+table.oxpsmodulesconfig-wrapper td.edittext {
+    padding: 10px 20px;
+}
+
+div.messagebox, div.errorbox {
+    margin-bottom: 10px;
+}
+
+form#oxpsmodulesconfig div.row {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+form#oxpsmodulesconfig div.row label {
+    display: block;
+    width: 300px;
+}
+
+form#oxpsmodulesconfig div.row label:first-child {
+    float: left;
+    font-weight: normal;
+    margin-bottom: 4px;
+}
+
+form#oxpsmodulesconfig div.row label.inner {
+    float: none;
+    margin-bottom: 2px;
+}
+
+form#oxpsmodulesconfig div.row div.input {
+    float: left;
+    width: 400px;
+}
+
+form#oxpsmodulesconfig div.row select {
+    width: 320px;
+}
+
+form#oxpsmodulesconfig div.row select option {
+    color: #808080;
+    font-weight: bold;
+}
+
+form#oxpsmodulesconfig div.row select option.active {
+    color: #008000;
+}
+
+form#oxpsmodulesconfig div.row span {
+    color: #0000ff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    margin: 4px;
+    text-decoration: underline;
+}
+
+form#oxpsmodulesconfig div.row span:hover {
+    text-decoration: none;
+}
+
+form#oxpsmodulesconfig div.row hr {
+    margin: 20px 0 10px 0;
+}
+
+form#oxpsmodulesconfig div.row input[type="submit"] {
+    padding: 6px 20px;
+}
+
+form#oxpsmodulesconfig div.row div.clear {
+    clear: both;
+    width: 100%;
+}
